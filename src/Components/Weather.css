@@ -83,19 +83,19 @@ body{
 .weather-image img {
     width: 70%;
     height: 60%;
-    margin: 10px auto 0 auto;
+    margin: 5px;
 }
 .weather-image .desc {
     font-size: 30px;
     text-align: center;
     margin-top:0;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 .weather-temp{
     color: white;
     text-align: center;
     font-size: 50px;
-    margin: 25px auto 15px auto;
+    margin: 20px auto 10px auto;
 }
 .weather-city{
     display: flex;
